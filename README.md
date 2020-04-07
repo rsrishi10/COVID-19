@@ -17,7 +17,7 @@ This model is all about analyzing how the virus could spread across different co
 
 ### 2. Worldwide COVID-19 Cases
 
-![](images/Screenshot (4).png)
+![](images/world.png)
 
 
 ### 3. Confirmed Cases (Predicted)
